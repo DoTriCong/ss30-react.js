@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Quét nhà",
+      "isStatus": false
+    },
+    {
+      "id": 2,
+      "product_name": "Giặt quần áo",
+      "isStatus": false
+    },
+    {
+      "id": 3,
+      "product_name": "Nấu cơm",
+      "isStatus": false
+    },
+    {
+      "product_name": "Học tập",
+      "isStatus": true,
+      "id": 4
+    },
+    {
+      "product_name": "Rửa bát",
+      "isStatus": false,
+      "id": 5
+    }
+  ]
+}
